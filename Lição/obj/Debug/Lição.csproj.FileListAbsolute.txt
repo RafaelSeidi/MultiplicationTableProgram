@@ -1,0 +1,25 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lição\Lição\bin\Debug\Lição.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lição\Lição\obj\Debug\Lição.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lição\Lição\bin\Debug\Lição.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lição\Lição\bin\Debug\Lição.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lição\Lição\obj\Debug\Lição.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lição\Lição\obj\Debug\Lição.pdb
+G:\TPA\C#\Lição\Lição\bin\Debug\Lição.exe.config
+G:\TPA\C#\Lição\Lição\obj\Debug\Lição.exe
+G:\TPA\C#\Lição\Lição\obj\Debug\Lição.pdb
+G:\TPA\C#\Lição\Lição\bin\Debug\Lição.exe
+G:\TPA\C#\Lição\Lição\bin\Debug\Lição.pdb
+G:\TPA\C#\Lição\Lição\obj\Debug\Lição.csprojResolveAssemblyReference.cache
+F:\Trabalhos Etec\TPA\C#\Lição\Lição\bin\Debug\Lição.exe.config
+F:\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.exe
+F:\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.pdb
+F:\Trabalhos Etec\TPA\C#\Lição\Lição\bin\Debug\Lição.exe
+F:\Trabalhos Etec\TPA\C#\Lição\Lição\bin\Debug\Lição.pdb
+F:\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\bin\Debug\Lição.exe.config
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\bin\Debug\Lição.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\bin\Debug\Lição.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Lição\Lição\obj\Debug\Lição.pdb
